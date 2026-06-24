@@ -2,6 +2,8 @@
 
 > Encrypted MariaDB/MySQL backups using AES-256 + RSA.
 
+[Русский](README.ru.md) · [עברית](README.he.md)
+
 ## Files
 
 | File | Description |

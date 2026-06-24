@@ -2,6 +2,8 @@
 
 > גיבויים מוצפנים של MariaDB/MySQL באמצעות AES-256 + RSA.
 
+[English](README.md) · [Русский](README.ru.md)
+
 ## קבצים
 
 | קובץ | תיאור |
